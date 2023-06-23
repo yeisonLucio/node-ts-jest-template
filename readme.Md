@@ -1,0 +1,1 @@
+## template for nodejs with typescript and jest
